@@ -15,4 +15,11 @@
 > ApacheSparkSQL, Cloudant, and the End to End Scenario
 - [Assignment 2](/Fundamentals-of-Scalable-Data-Science/Week2/Assignment2.1)
 > ### Week 3 : Mathematical Foundations on Exploratory Data Analysis
-> 
+> Averages and standard deviation  
+> Skewness and kurtosis  
+> Covariance, correlation and multidimensional Vector Spaces  
+- [Assignment 3](/Fundamentals-of-Scalable-Data-Science/Week2/Assignment3.1.py)
+> ### Week 4 : Data Visualization
+> Visualization  
+> Dimension Reduction
+- [Assignment 4](/Fundamentals-of-Scalable-Data-Science/Week2/Assignment4.1.py)
