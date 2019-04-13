@@ -7,7 +7,6 @@
 ## [Course 1 : Fundamentals of Scalable Data Science](/Fundamentals-of-Scalable-Data-Science)
 > ### Week 1 : Introduction to exploratory analysis
 > Challenges, terminology, methods and technology
-- [Assignment(json)](/Fundamentals-of-Scalable-Data-Science/Week1/AssignmentData)
 - [Assignment 1](/Fundamentals-of-Scalable-Data-Science/Week1/Assignment1)
 > ### Week 2 : Tools that support IoT solutions
 > Data storage solutions, and ApacheSpark  
