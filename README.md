@@ -6,4 +6,5 @@
    
 ## [Course 1 : Fundamentals of Scalable Data Science](/Fundamentals-of-Scalable-Data-Science)
 >> ### Week 1 : Introduction to exploratory analysis
-      [Assignment 1](/FundamentalsOfScalableDataScience/Week1/Assignment1.1)
+>>>[Assignment(json)](/Fundamentals-of-Scalable-Data-Science/Week1/AssignmentData)
+>>>[Assignment 1](/Fundamentals-of-Scalable-Data-Science/Week1/Assignment1)
