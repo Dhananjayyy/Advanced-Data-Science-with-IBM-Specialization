@@ -23,3 +23,8 @@ Fundamentals of Scalable Data Science Badge
 > Visualization  
 > Dimension Reduction
 - [Assignment 4](/Fundamentals-of-Scalable-Data-Science/Week2/Assignment4.1.py)
+
+## [Course 2 : Advanced ML and Signal Processing](/Advanced-Machine-Learning-and-Signal-Processing)
+> ### Week 1 : Setting the stage
+>  Machine Learning, ML Pipelines, ETL - from Smartphone to ObjectStore
+- [Assignment 1](/Advanced-Machine-Learning-and-Signal-Processing/Week1/AssignmentML1)
